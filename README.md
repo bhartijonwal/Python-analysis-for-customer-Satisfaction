@@ -47,10 +47,12 @@ In e-commerce, customer support feedback is generated at high volume and is hard
 - Visual analysis made customer sentiment patterns easier to interpret.
 
 ## Quick Q&A
-- Main challenge?
+- **Main challenge?**
    High missing-value ratios and class imbalance in satisfaction scores.
-- **Why binary encoding?** It handles high-cardinality features efficiently without large dimensional expansion.
-- **Why IQR for outliers?** It is robust for skewed data and less sensitive to extreme values than Z-score in this context.
+- **Why binary encoding?**
+  It handles high-cardinality features efficiently without large dimensional expansion.
+- **Why IQR for outliers?**
+  It is robust for skewed data and less sensitive to extreme values than Z-score in this context.
 
 ## Conclusion
 The project demonstrates a practical analytics pipeline for extracting actionable CSAT insights from support data. The workflow can be extended into prediction systems and business dashboards.
