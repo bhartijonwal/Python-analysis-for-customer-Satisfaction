@@ -37,8 +37,9 @@ In e-commerce, customer support feedback is generated at high volume and is hard
 - Used bar charts, heatmaps, and count plots
 - Studied trends, distributions, and basic relationships
 - Detected outliers in `Item_price` with IQR and applied clipping
-
-
+## 3) Hypothesis Testing
+Performed statistical hypothesis testing to validate whether operational factors had a significant impact on customer satisfaction (CSAT).
+Used hypothesis testing to support analytical findings with data-driven statistical evidence instead of relying only on visual analysis.
 
 ## Key Insights
 - Agent shift, tenure, and product category show meaningful association with CSAT.
